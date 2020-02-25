@@ -1,0 +1,28 @@
+// Cidic file (EN-ZH) for Tongyi
+// Licensed under Creative Commons Attribution-ShareAlike 4.0 International License.
+//
+// Authors:
+// zwpwjwtz <zwpwjwtz@126.com>
+//
+apple;N
+banana;N
+orange;AN
+peach;N
+pineapple;N
+strawberry;N
+watermelon;N
+苹果;N
+香蕉;N
+橘子;N
+桃子;N
+菠萝;N
+草莓;N
+西瓜;N
+
+1|8
+2|9
+3|10
+4|11
+5|12
+6|13
+7|14
